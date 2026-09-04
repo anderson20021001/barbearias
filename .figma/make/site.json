@@ -1,0 +1,10 @@
+{
+  "description": "FAÇA PARA MIM connects users with personalized services, simplifying everyday tasks and enhancing productivity for individuals and businesses alike.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
